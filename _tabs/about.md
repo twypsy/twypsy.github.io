@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fa-solid fa-user
 order: 2
+comments: false
 ---
 
 ## 👋 Welcome to my site!
