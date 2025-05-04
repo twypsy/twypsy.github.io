@@ -806,5 +806,5 @@ Final script: [cryptofailures.py](https://github.com/twypsy/tryhackme-scripts/bl
 
 **Note**: You will need to edit the URL variable on line 6 within the script in order to match the target machine.
 
-![img-description](assets/img/posts/2025/2025-05-03-crypto-failures/20.png)
+![img-description](assets/img/posts/2025/2025-05-03-crypto-failures/20.jpg)
 
