@@ -6,6 +6,6 @@ tags: [general]
 description: Welcome to my blog 🪄
 ---
 
-![img-description](assets/img/posts/2025/2025-04-25-hello-world/vivi.gif)
+![vivi](assets/img/posts/2025/2025-04-25-hello-world/vivi.gif)
 
 
