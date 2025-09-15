@@ -38,7 +38,7 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * Offensive Security: [OSCP](https://www.credly.com/badges/2626f90f-eedf-4921-91b6-773fdaf3e983), [OSWP](https://www.credly.com/badges/9345e9ee-ad99-4ac3-bc82-d89cfb1d3ab7)
 * APISec University: [ASCP](https://www.credly.com/badges/b6960bc1-6a27-40ee-b9ce-350304ab2260), [CASA](https://www.credly.com/badges/f20494b8-f6f3-4f22-877c-394bc4b86a28), [ACP](https://www.credly.com/badges/37b34560-9e10-49e4-b6e0-34421199bad3)
 * Hack the Box: [HTB CBBH](https://www.credly.com/badges/bc2adc99-9074-452a-ab46-3d4094964c6b)
-* TCM Security: [PORP](https://www.credential.net/dff028e6-d28f-4607-bf73-c7193edf7778#acc.hpXVwfDb)
+* TCM Security: [PORP](https://www.credential.net/dff028e6-d28f-4607-bf73-c7193edf7778#acc.hpXVwfDb), [PMPA](https://www.credential.net/40f3edc9-95d7-479f-9c46-421c0efdb58c)
 * Bureau Veritas:
    * ISO 27001:2022 Internal Auditor: [Exam]({{baseurl}}/assets/certs/2025/Auditor Interno ISO 27001-Examen.pdf), [Course]({{baseurl}}/assets/certs/2025/Auditor Interno ISO 27001.pdf) 
    * Data Protection - GDPR and Spanish LOPD: [Course]({{baseurl}}/assets/certs/2025/Protección de Datos.pdf)
@@ -49,7 +49,7 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 
 ### 🖥️💥 Hacking platforms
 
-• [Tryhackme](https://tryhackme.com/p/twypsy): Highly ranked member with over 800 rooms completed.
+• [Tryhackme](https://tryhackme.com/p/twypsy): Long term user with over 800 rooms completed.
 
 • [Pentesterlab](https://pentesterlab.com/profile/twypsy): With over 600 exercises completed, I have gained extensive hands-on experience in Web Hacking and Security Code Reviews.
 
