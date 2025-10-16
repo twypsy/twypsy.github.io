@@ -47,6 +47,10 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * PECB: ISO/IEC 27001 Provisional Implementer - [Exam](https://www.credly.com/badges/12ea05de-8083-40d6-8c63-96cb47f43989), [Course]({{baseurl}}/assets/certs/2025/PECB - Lead Implementer Course.pdf)
 * First: [CVSS 4.0]({{baseurl}}/assets/certs/2025/certification-CVSS-v4.0-twypsy.pdf)
 
+### 🤖 AI
+
+* Learn Prompting: [[1]](https://learnprompting.thinkific.com/certificates/km0wkty3kv) [[2]](https://learnprompting.thinkific.com/certificates/jzp58hqcr7) [[3]](https://learnprompting.thinkific.com/certificates/ktvcp0ud8b) [[4]](https://learnprompting.thinkific.com/certificates/wrhruhgboe) [[5]](https://learnprompting.thinkific.com/certificates/yw5og3tzz7) [[6]](https://learnprompting.thinkific.com/certificates/ublto7klas) [[7]](https://learnprompting.thinkific.com/certificates/15lv70czh8) [[8]](https://learnprompting.thinkific.com/certificates/a0sone6v3r) [[9]](https://learnprompting.thinkific.com/certificates/v7mj4rqmqi) [[10]](https://learnprompting.thinkific.com/certificates/lrohufcet6) [[11]](https://learnprompting.thinkific.com/certificates/2igmw6uzt3)
+
 ### 🖥️💥 Hacking platforms
 
 • [Tryhackme](https://tryhackme.com/p/twypsy): Long term user with over 800 rooms completed.
