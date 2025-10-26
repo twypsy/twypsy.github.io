@@ -52,7 +52,7 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * Learn Prompting: [[1]](https://learnprompting.thinkific.com/certificates/km0wkty3kv) [[2]](https://learnprompting.thinkific.com/certificates/jzp58hqcr7) [[3]](https://learnprompting.thinkific.com/certificates/ktvcp0ud8b) [[4]](https://learnprompting.thinkific.com/certificates/wrhruhgboe) [[5]](https://learnprompting.thinkific.com/certificates/yw5og3tzz7) [[6]](https://learnprompting.thinkific.com/certificates/ublto7klas) [[7]](https://learnprompting.thinkific.com/certificates/15lv70czh8) [[8]](https://learnprompting.thinkific.com/certificates/a0sone6v3r) [[9]](https://learnprompting.thinkific.com/certificates/v7mj4rqmqi) [[10]](https://learnprompting.thinkific.com/certificates/lrohufcet6) [[11]](https://learnprompting.thinkific.com/certificates/2igmw6uzt3)
 * AttackIQ: [Foundations of AI Security](https://www.credly.com/badges/c6b9b320-7aaa-4a58-a918-722901331139/public_url)
 * Securiti:
-   * [AI Security & Governance](https://education.securiti.ai/verification/13F36FCC3-13F36FB32-13912DF6B/)
+   * [AI Security and Governance](https://education.securiti.ai/verification/13F36FCC3-13F36FB32-13912DF6B/)
    * [DSPM Fundamentals](https://education.securiti.ai/verification/1453CBB76-1454B1162-13912DF6B/)
  
 ### 🖥️💥 Hacking platforms
