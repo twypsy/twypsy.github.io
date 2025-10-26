@@ -54,7 +54,7 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * Securiti:
    * [AI Security & Governance](https://education.securiti.ai/verification/13F36FCC3-13F36FB32-13912DF6B/)
    * [DSPM Fundamentals](https://education.securiti.ai/verification/1453CBB76-1454B1162-13912DF6B/)
-
+ 
 ### 🖥️💥 Hacking platforms
 
 • [Tryhackme](https://tryhackme.com/p/twypsy): Long term user with over 800 rooms completed.
