@@ -26,10 +26,11 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 ### 🛠️ Skills
 
 * Web Application Security
+* AI Security
 * Bug Bounty Triage
 * Vulnerability Analysis
 * OSINT (Open Source Intelligence)
-* Compliance: ISO 27001, 42001
+* Compliance
 
 ### 🎓 Certifications
 
@@ -38,16 +39,20 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * Offensive Security: [OSCP](https://www.credly.com/badges/2626f90f-eedf-4921-91b6-773fdaf3e983), [OSWP](https://www.credly.com/badges/9345e9ee-ad99-4ac3-bc82-d89cfb1d3ab7)
 * APISec University: [ASCP](https://www.credly.com/badges/b6960bc1-6a27-40ee-b9ce-350304ab2260), [CASA](https://www.credly.com/badges/f20494b8-f6f3-4f22-877c-394bc4b86a28), [ACP](https://www.credly.com/badges/37b34560-9e10-49e4-b6e0-34421199bad3)
 * Hack the Box: [CWES](https://www.credly.com/badges/bc2adc99-9074-452a-ab46-3d4094964c6b)
-* TCM Security: [PORP](https://www.credential.net/dff028e6-d28f-4607-bf73-c7193edf7778#acc.hpXVwfDb), [PMPA](https://www.credential.net/40f3edc9-95d7-479f-9c46-421c0efdb58c)
+* TCM Security: [PORP](https://www.credential.net/dff028e6-d28f-4607-bf73-c7193edf7778), [PMPA](https://www.credential.net/40f3edc9-95d7-479f-9c46-421c0efdb58c)
 * First: [CVSS 4.0]({{baseurl}}/assets/certs/2025/certification-CVSS-v4.0-twypsy.pdf)
 
 #### 🤖 AI
 
-* [Learn Prompting]({{baseurl}}/labs/learnprompting.html): Completed 11 modules related to AI prompting
+* TCM Security: [Practical AI Pentest Associate](https://www.credential.net/80c17eba-4e06-4f75-b9d3-3fd1398a220e)
 * AttackIQ: [Foundations of AI Security](https://www.credly.com/badges/c6b9b320-7aaa-4a58-a918-722901331139/public_url)
- 
+* [Learn Prompting]({{baseurl}}/labs/learnprompting.html): Completed 11 modules related to AI prompting
+
 #### ⚖️ Legal/Compliance 
 
+* Cyber Resilience Act (CRA): 
+   * [Notes on the Cyber Resilience Act (CRA)](/posts/cyber-resilience-act/)
+   * [LFEL1001: Understanding the EU Cyber Resilience Act (CRA)](https://www.credly.com/badges/d89ee864-748a-4e04-ab64-35587eb376d8)
 * ISO 27001: [Provisional Implementer](https://www.credly.com/badges/12ea05de-8083-40d6-8c63-96cb47f43989), [Internal Auditor]({{baseurl}}/assets/certs/2025/Auditor Interno ISO 27001-Examen.pdf), [Lead Auditor](https://www.credly.com/badges/b6869f26-081d-485f-9d0b-7af495943905) 
 * ISO 42001: [Provisional Implementer](https://www.credly.com/badges/081a39ce-dbb0-4d66-8c88-89217eec72c4), [Lead Auditor](https://www.credly.com/badges/8a7e3878-e806-4272-8b14-23923f51efaa) 
 * Bureau Veritas:
