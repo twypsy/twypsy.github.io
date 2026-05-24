@@ -43,8 +43,9 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * First: [CVSS 4.0]({{baseurl}}/assets/certs/2025/certification-CVSS-v4.0-twypsy.pdf)
 
 #### 🤖 AI
-
+* The SecOps Group: [Certified AI/ML Pentester (C-AI/MLPen)]({{baseurl}}/assets/certs/2026/C-AI_MLPen.pdf)
 * TCM Security: [Practical AI Pentest Associate](https://www.credential.net/80c17eba-4e06-4f75-b9d3-3fd1398a220e)
+* Tryhackme: [AI Security](https://tryhackme.com/certificate/THM-QDHJ9X8LOS)
 * AttackIQ: [Foundations of AI Security](https://www.credly.com/badges/c6b9b320-7aaa-4a58-a918-722901331139/public_url)
 * [Learn Prompting]({{baseurl}}/labs/learnprompting.html): Completed 11 modules related to AI prompting
 
