@@ -28,51 +28,43 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * Web Application Security
 * AI Security
 * Bug Bounty Triage
-* Vulnerability Analysis
-* OSINT (Open Source Intelligence)
+* OSINT
 * Compliance
 
-### 🎓 Certifications
+### 🎓 Learning
+
+#### 🤖 AI Security
+* The SecOps Group: [Certified AI/ML Pentester (C-AI/MLPen)]({{baseurl}}/assets/certs/2026/C-AI_MLPen.pdf)
+* TCM Security: [Practical AI Pentest Associate](https://www.credential.net/80c17eba-4e06-4f75-b9d3-3fd1398a220e)
+* Tryhackme: [AI Security](https://tryhackme.com/certificate/THM-QDHJ9X8LOS)
+* [Learn Prompting]({{baseurl}}/labs/learnprompting.html): Completed 11 modules related to AI prompting
+
+#### 🤝 AI Ethics
+* University of Helsinki: [Ethics of AI](https://certificates.mooc.fi/validate/npm65j6e4d9)
 
 #### 👾 Cybersecurity
 
 * Offensive Security: [OSCP](https://www.credly.com/badges/2626f90f-eedf-4921-91b6-773fdaf3e983), [OSWP](https://www.credly.com/badges/9345e9ee-ad99-4ac3-bc82-d89cfb1d3ab7)
-* APISec University: [ASCP](https://www.credly.com/badges/b6960bc1-6a27-40ee-b9ce-350304ab2260), [CASA](https://www.credly.com/badges/f20494b8-f6f3-4f22-877c-394bc4b86a28), [ACP](https://www.credly.com/badges/37b34560-9e10-49e4-b6e0-34421199bad3)
 * Hack the Box: [CWES](https://www.credly.com/badges/bc2adc99-9074-452a-ab46-3d4094964c6b)
+* APISec University: [ASCP](https://www.credly.com/badges/b6960bc1-6a27-40ee-b9ce-350304ab2260), [CASA](https://www.credly.com/badges/f20494b8-f6f3-4f22-877c-394bc4b86a28), [ACP](https://www.credly.com/badges/37b34560-9e10-49e4-b6e0-34421199bad3)
 * TCM Security: [PORP](https://www.credential.net/dff028e6-d28f-4607-bf73-c7193edf7778), [PMPA](https://www.credential.net/40f3edc9-95d7-479f-9c46-421c0efdb58c)
-* First: [CVSS 4.0]({{baseurl}}/assets/certs/2025/certification-CVSS-v4.0-twypsy.pdf)
-
-#### 🤖 AI
-* The SecOps Group: [Certified AI/ML Pentester (C-AI/MLPen)]({{baseurl}}/assets/certs/2026/C-AI_MLPen.pdf)
-* TCM Security: [Practical AI Pentest Associate](https://www.credential.net/80c17eba-4e06-4f75-b9d3-3fd1398a220e)
-* Tryhackme: [AI Security](https://tryhackme.com/certificate/THM-QDHJ9X8LOS)
-* AttackIQ: [Foundations of AI Security](https://www.credly.com/badges/c6b9b320-7aaa-4a58-a918-722901331139/public_url)
-* [Learn Prompting]({{baseurl}}/labs/learnprompting.html): Completed 11 modules related to AI prompting
 
 #### ⚖️ Legal/Compliance 
 
-* Cyber Resilience Act (CRA): 
-   * [Notes on the Cyber Resilience Act (CRA)](/posts/cyber-resilience-act/)
-   * [LFEL1001: Understanding the EU Cyber Resilience Act (CRA)](https://www.credly.com/badges/d89ee864-748a-4e04-ab64-35587eb376d8)
-* ISO 27001: [Provisional Implementer](https://www.credly.com/badges/12ea05de-8083-40d6-8c63-96cb47f43989), [Internal Auditor]({{baseurl}}/assets/certs/2025/Auditor Interno ISO 27001-Examen.pdf), [Lead Auditor](https://www.credly.com/badges/b6869f26-081d-485f-9d0b-7af495943905) 
+* Cyber Resilience Act (CRA): [Notes on the Cyber Resilience Act (CRA)](/posts/cyber-resilience-act/)
 * ISO 42001: [Provisional Implementer](https://www.credly.com/badges/081a39ce-dbb0-4d66-8c88-89217eec72c4), [Lead Auditor](https://www.credly.com/badges/8a7e3878-e806-4272-8b14-23923f51efaa) 
-* Bureau Veritas:
-   * [Data Protection - GDPR and Spanish LOPD]({{baseurl}}/assets/certs/2025/Protección de Datos.pdf)
-   * [Cybersecurity and cyber-terrorism essentials]({{baseurl}}/assets/certs/2025/Ciberseguridad Esencial y Ciberterrorismo.pdf)
-* Securiti:
-   * [AI Security and Governance](https://education.securiti.ai/verification/13F36FCC3-13F36FB32-13912DF6B/)
-   * [DSPM Fundamentals](https://education.securiti.ai/verification/1453CBB76-1454B1162-13912DF6B/)
+* ISO 27001: [Provisional Implementer](https://www.credly.com/badges/12ea05de-8083-40d6-8c63-96cb47f43989), [Internal Auditor]({{baseurl}}/assets/certs/2025/Auditor Interno ISO 27001-Examen.pdf), [Lead Auditor](https://www.credly.com/badges/b6869f26-081d-485f-9d0b-7af495943905) 
 
-### 🖥️💥 Hacking platforms
+### 🖥️💥 Hacking labs
 
-• [Tryhackme](https://tryhackme.com/p/twypsy): Long term user with over 800 rooms completed.
+* [Tryhackme](https://tryhackme.com/p/twypsy): Long term user with over 800 rooms completed.
 
-• [Pentesterlab](https://pentesterlab.com/profile/twypsy): With over 600 exercises completed, I have gained extensive hands-on experience in Web Hacking and Security Code Reviews.
+* [Pentesterlab](https://pentesterlab.com/profile/twypsy): Over 700 exercises completed with a focus on Web Hacking and Security Code Review.
 
-• [Portswigger Academy](https://portswigger.net/web-security/hall-of-fame): Ranked among the top 50 in PortSwigger’s Hall of Fame (#31) as of August 2025.
+* [Hackthebox Academy]({{baseurl}}/labs/htb-academy.html): Completed 72 modules, including 1 certification.
 
-• [Hackthebox Academy]({{baseurl}}/labs/htb-academy.html): Completed 72 modules, including 1 certification, and continuously improving my pentesting and security skills.
+* [Portswigger Academy](https://portswigger.net/web-security/hall-of-fame): Ranked among the top 50 in PortSwigger’s Hall of Fame (#31) as of August 2025.
 
-• [APISec University]({{baseurl}}/labs/apisec.html): Completed 17 modules with a focus on API security. 
+* [APISec University]({{baseurl}}/labs/apisec.html): Completed 17 API security modules.
 
-• [Kase Scenarios]({{baseurl}}/labs/kase-scenarios.html): Completed 7 interactive OSINT scenarios.
+* [Kase Scenarios]({{baseurl}}/labs/kase-scenarios.html): Completed 7 interactive OSINT scenarios.
