@@ -40,6 +40,7 @@ Please, check my Linkedin profile for the most up-to-date information regarding 
 * [Learn Prompting]({{baseurl}}/labs/learnprompting.html): Completed 11 modules related to AI prompting
 
 #### 🤝 AI Ethics
+* UNESCO: [Global MOOC on the Ethics of AI](https://www.coursera.org/account/accomplishments/verify/VRDNJYO1Y1A4)
 * University of Helsinki: [Ethics of AI](https://certificates.mooc.fi/validate/npm65j6e4d9)
 
 #### 👾 Cybersecurity
